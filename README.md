@@ -15,7 +15,7 @@
 
 ### Why vSecureLink?
 
-Unlike other online file sharing tools that might expose your files to security vulnerabilities or data breaches, **vSecureLink** ensures end-to-end encryption. Your files are encrypted locally on your machine before being sent over the network, ensuring that only the intended recipient can decrypt and access them. It also works on all platforms, weather its an windows machine, linux, mac, or an android phone.
+Unlike other online file sharing tools that might expose your files to security vulnerabilities or data breaches, **vSecureLink** ensures end-to-end encryption. Your files are encrypted locally on your machine before being sent over the network, ensuring that only the intended recipient can decrypt and access them. It also works on all platforms, whether its an windows machine, linux, mac, or an android phone.
 
 ### Requirements
 
